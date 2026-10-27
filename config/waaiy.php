@@ -9,7 +9,7 @@ return [
     | Waaiy headless CMS'in public REST API'sinin kök adresi. SDK bu adrese
     | üç özel header (W-Public-Key / W-Private-Key / W-User-Key) ile bağlanır.
     */
-    'base_url' => env('WAAIY_API_URL', 'https://api.waaiy.dev'),
+    'base_url' => env('WAAIY_API_URL', 'https://api.waaiy.com'),
 
     /*
     |--------------------------------------------------------------------------
